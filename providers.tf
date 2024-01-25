@@ -3,7 +3,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      "workload" = "customer-service"
+      "workload" = "cart-service"
     }
   }
 }
